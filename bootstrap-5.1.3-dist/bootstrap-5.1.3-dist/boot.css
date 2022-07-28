@@ -1,0 +1,53 @@
+.container-fluid{
+    background-color: rgb(58, 24, 1)
+}
+.nav-item a{
+    color: white;
+    font-size: x-small;
+}
+.number{
+    color: rgb(58, 24, 1);
+    padding-left: 180px;
+    font-style: italic;
+    margin-top: 10px;
+    font-size: small;
+}
+
+.flower{
+    font-weight: bold;
+    color: rgb(50, 33, 22);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.details{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(58, 24, 1);
+    margin-top: 1px;
+    font-size: large;
+    font-weight: lighter;
+}
+.block{
+    border: none;
+    background-color: rgba(58, 24, 1);
+    padding:6px 22px ;
+    font-size: 11px;
+    display: block;
+    color: white;
+    border-radius: 2px;
+    margin-top: 2px;
+}
+.block:hover{
+    color: blue;
+}
+
+.info{
+    padding-top: 200px;
+    padding-left: 100px;
+}
+.d-flex{
+    width: 150px;
+    padding-right: 10px;
+
+}
+
+
+
